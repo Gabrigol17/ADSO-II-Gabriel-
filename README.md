@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 # ADSO-II-Gabriel-
 =======
+=======
+>>>>>>> 4784e1e05728554548dfbef9140d1b88f3063fc8
 # Hoja de vida
 
 ## Información Personal
@@ -14,7 +17,11 @@ Estudiante de el programa de formacion tecnologa "Analisis y Desarrollo de softw
 
 ## Educación
 - **Madre Marcelina**, Barranquilla  
+<<<<<<< HEAD
 -  *Bachiller Académico* - Graduado en 2023
+=======
+    *Bachiller Académico* - Graduado en 2023
+>>>>>>> 4784e1e05728554548dfbef9140d1b88f3063fc8
 
  ## Habilidades
 - Habilidad para el trabajo en equipo y la comunicación efectiva
@@ -25,5 +32,9 @@ Estudiante de el programa de formacion tecnologa "Analisis y Desarrollo de softw
 - Inglés: Nivel Básico
 
 ## Referencias
+<<<<<<< HEAD
 Disponibles a solicitud.
 >>>>>>> Stashed changes
+=======
+Disponibles a solicitud.
+>>>>>>> 4784e1e05728554548dfbef9140d1b88f3063fc8
