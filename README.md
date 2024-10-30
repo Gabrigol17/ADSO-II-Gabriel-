@@ -11,6 +11,8 @@ Estudiante de el programa de formacion tecnologa "Analisis y Desarrollo de softw
 
 ## Educación
 - **Madre Marcelina**, Barranquilla  
-  *Bachiller Académico* - Graduado en 2023
-  
+*Bachiller Académico* - Graduado en 2023
 
+ ## Habilidades
+- Habilidad para el trabajo en equipo y la comunicación efectiva
+- Capacidad de análisis y resolución de problemas
